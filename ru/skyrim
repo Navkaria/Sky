@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="title" content="The Elder Scrolls |  Skyrim"/>
+        <meta name="description" content=""/>
+        <meta name="keywords" content="The Elder Scrolls V, Skyrim, Skyrim Special Edition, Dragonborn, Alduin’s Wall, Dragons, dragon language, Nords, RPG,  roleplaying game, Bethesda Softworks, Bethesda Game Studios"/>
+        <meta property="og:site_name" content="Elder Scrolls"/>
+        <meta property="og:url" content="https://elderscrolls.bethesda.net/ru/skyrim"/>
+        <meta property="og:title" content="The Elder Scrolls |  Skyrim"/>
+        <meta property="og:description" content=""/>
+        <meta property="og:type" content="website"/>
+        <meta name="twitter:site" content="@ElderScrolls"/>
+        <meta name="twitter:url" content="https://elderscrolls.bethesda.net/ru/skyrim"/>
+        <meta name="twitter:title" content="The Elder Scrolls |  Skyrim"/>
+        <meta name="twitter:description" content=""/>
+        <meta name="twitter:card" content="summary_large_image">
+        <title>The Elder Scrolls |  Skyrim</title>
+        <link rel="canonical" href="https://elderscrolls.bethesda.net/ru/skyrim"/>
+        <link rel="alternate" hreflang="en" href="https://elderscrolls.bethesda.net/en/skyrim"/>
+        <link rel="alternate" hreflang="fr" href="https://elderscrolls.bethesda.net/fr/skyrim"/>
+        <link rel="alternate" hreflang="de" href="https://elderscrolls.bethesda.net/de/skyrim"/>
+        <link rel="alternate" hreflang="it" href="https://elderscrolls.bethesda.net/it/skyrim"/>
+        <link rel="alternate" hreflang="es" href="https://elderscrolls.bethesda.net/es/skyrim"/>
+        <link rel="alternate" hreflang="pt" href="https://elderscrolls.bethesda.net/pt/skyrim"/>
+        <link rel="alternate" hreflang="pl" href="https://elderscrolls.bethesda.net/pl/skyrim"/>
+        <link rel="alternate" hreflang="ja" href="https://elderscrolls.bethesda.net/ja/skyrim"/>
+        <link rel="alternate" hreflang="ko" href="https://elderscrolls.bethesda.net/ko/skyrim"/>
+        <link rel="alternate" hreflang="tr" href="https://elderscrolls.bethesda.net/tr/skyrim"/>
+        <link rel="alternate" hreflang="zh-CN" href="https://elderscrolls.bethesda.net/zh-CN/skyrim"/>
+        <link rel="alternate" hreflang="zh-TW" href="https://elderscrolls.bethesda.net/zh-TW/skyrim"/>
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon/elderscrolls/favicon-32x32.png"/>
+        <link rel="icon" type="image/png" sizes="96x96" href="/favicon/elderscrolls/favicon-96x96.png"/>
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon/elderscrolls/favicon-16x16.png"/>
+        <link rel="stylesheet" type="text/css" href="/css/elderscrolls.css"/>
+        <link rel="stylesheet" type="text/css" href="//cdn01.bethesda.net/shared/core/3/global.css"/>
+        <script type="text/javascript" src="//use.typekit.net/cjx3vwu.js"></script>
+        <script type="text/javascript">
+            try {
+                Typekit.load();
+            } catch (e) {}
+        </script>
+        <script type="text/javascript" src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js"></script>
+    </head>
+    <body>
+        <script>
+            dataLayer = [];
+        </script>
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-P8P6GJ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <script>
+            (function(w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start': new Date().getTime(),
+                    event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0]
+                  , j = d.createElement(s)
+                  , dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            }
+            )(window, document, 'script', 'dataLayer', 'GTM-5VRRV6');
+        </script>
+        <app id="global-navbar"></app>
+        <div id="app"></div>
+        <globalfooter id="global-footer"></globalfooter>
+        <script type="text/javascript" src="//cdn01.bethesda.net/shared/core/3/global.js"></script>
+        <script src="/js/elderscrolls.js"></script>
+    </body>
+</html>
